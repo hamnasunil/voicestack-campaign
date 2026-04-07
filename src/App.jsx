@@ -95,7 +95,7 @@ const ArchitectureDiagram = () => {
   return (
     <div className="min-h-screen bg-slate-50 p-4 md:p-8 font-sans text-slate-900">
       <div className="max-w-6xl mx-auto mb-12 text-center">
-        <h1 className="text-3xl font-black text-slate-800 tracking-tight mb-2">Google Call Ads Architecture</h1>
+        <h1 className="text-3xl font-black text-slate-800 tracking-tight mb-2">Hamna Call Ads Architecture</h1>
         <p className="text-slate-500 uppercase tracking-widest text-xs font-bold">Caller-ID Focused Event Enrichment</p>
       </div>
 
